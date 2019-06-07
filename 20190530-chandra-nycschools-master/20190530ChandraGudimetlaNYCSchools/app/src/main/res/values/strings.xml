@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">20190530-CHANDRA_GUDIMETLA-NYCSchools</string>
+    <string name="details_school_description">Description:</string>
+    <string name="details_school_address">Address:</string>
+    <string name="details_school_Email">Email:</string>
+    <string name="details_school_phone">Phone:</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="details_scores">SAT Scores</string>
+    <string name="details_math">MATH</string>
+    <string name="details_reading">READING</string>
+    <string name="details_writing">WRITING</string>
+    <string name="not_available">N/A</string>
+    <string name="school_row_city_state">%1$s, %2$s</string>
+</resources>

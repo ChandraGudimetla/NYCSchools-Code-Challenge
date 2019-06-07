@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--LIST FRAGMENT-->
+    <dimen name="fragment_list_padding">10dp</dimen>
+
+    <!--ROW-->
+    <dimen name="row_cardview_padding">10dp</dimen>
+    <dimen name="row_school_title">16sp</dimen>
+    <dimen name="row_padding">10dp</dimen>
+
+    <!--DETAILS FRAGMENT-->
+    <dimen name="fragment_details_school_title_size">30sp</dimen>
+    <dimen name="fragment_details_school_subtitle_size">18sp</dimen>
+    <dimen name="fragment_details_score_title_size">15sp</dimen>
+    <dimen name="fragment_details_score_info_margin_top">2dp</dimen>
+    <dimen name="fragment_details_score_info_text_size">15sp</dimen>
+    <dimen name="fragment_details_score_subtitle_margin_top">4dp</dimen>
+    <dimen name="fragment_details_school_info_text_size">15sp</dimen>
+    <dimen name="fragment_details_school_subtitle_text_size">8dp</dimen>
+    <dimen name="fragment_details_title_layout_margin_top">8dp</dimen>
+    <dimen name="fragment_details_title_layout_margin_bottom">8dp</dimen>
+
+</resources>
